@@ -1,3 +1,40 @@
+// const number =[55,45,12,15,16,17,18,19]
+// const increase=number
+// .map(num => ++num)
+// .sort((a,b)=> a-b)//küçükten büy sıralar
+// increase.join(',')
+
+// function boolToWord(bool) {
+//     return bool ? "Yes" :  "No";
+// }
+
+// boolToWord(true);
+
+// function getCount(str){
+//   let vowelsCount =0;
+//   const arr= str.split("");
+//   for (let i=0;i < arr.length;i++){
+//     switch (arr[i]){
+//               case 'a':
+//         vowelsCount++;
+//         break;
+//               case 'e':
+//         vowelsCount++;
+//         break;
+//               case 'i':
+//         vowelsCount++;,
+//           break;
+//               case 'o':
+//         vowelsCount++;
+//         break;
+//               case 'u':
+//         vowelsCount++;
+//     }
+//   }
+// }
+//  getCount()
+
+
 // function main() {
 //     console.log('main');
 
