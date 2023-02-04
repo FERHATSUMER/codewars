@@ -1,3 +1,30 @@
+//***Thinkful - Logic Drills: Traffic light şu gelirse bu döner.
+// function updateLight(current) {
+// if (current=="green") {
+//     return "yellow";
+//   }
+//   if (current=="red") {
+//     return "green";
+//   }
+//   if (current=="yellow") {
+//     return "red";
+//   }
+//   const updateLight = current => {
+//   return {
+//     red: 'green',
+//     yellow: 'red',
+//     green: 'yellow'
+//   }[current];
+// }
+
+// }
+
+//** Is it even?
+// function testEven(n) {
+// return n%2===0 ? true : false
+//     }
+// testEven(0.5)
+
 // const number =[55,45,12,15,16,17,18,19]
 // const increase=number
 // .map(num => ++num)
@@ -34,7 +61,6 @@
 // }
 //  getCount()
 
-
 // function main() {
 //     console.log('main');
 
@@ -58,8 +84,6 @@
 // }
 
 // createPhone([1, 2, 3, 4, 5, 6, 7, 8, 9, 0])
-
-
 
 // function getPlanetName(id){
 //     var name;
@@ -94,7 +118,6 @@
 
 // getPlanetName(id)
 
-
 // function sameCase(x, y){
 //   let upper=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","Y","Z",]
 //   let lower=["a","b","c","d","e","f","g","h","ı","j","k","l","m","n","o","p","r","s","t","u","v","y","z"]
@@ -109,8 +132,6 @@
 //   isSomeCase = isSomeCase? 1:0
 //  return isSomeCase
 // }
-
-
 
 // function zeroToend(arr:Array){
 //  const noneZero = arr.filter(item => item !== 0);
