@@ -1,3 +1,28 @@
+//***en büyük ve en küçük sayıyı çıkarıp toplar
+// function sumArray(arr) {
+// let sortedArr = arr.sort((a, b) => a - b);
+//   sortedArr.pop();
+//   sortedArr.shift()
+//  return sortedArr.reduce((acc, curr) => acc + curr, 0)
+  
+// }
+// sumArray([6, 2, 1, 8, 10] )
+
+
+
+//****Is the string uppercase
+// function string(str) {
+// return str.split("").includes(
+//   "e","r","t","u","ı","o","p","a",
+//   "s","d","f","g","h","j","j","k",
+//   "l","i","z","x","c","v","b","n","m")
+//   ? false : true  
+
+// }
+// string("HELLO WORLD")
+
+
+
 //***Thinkful - Logic Drills: Traffic light şu gelirse bu döner.
 // function updateLight(current) {
 // if (current=="green") {
