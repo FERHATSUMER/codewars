@@ -1,3 +1,39 @@
+
+//****istediğimize tamamlama fonksiyonu
+// function otherAngle(a, b) {
+// return 180 - (a + b);
+// (a, b) => 180 - a - b
+// }
+// otherAngle(10, 20)
+
+//******sayı çiftse 8 değilse 9 ile çarp
+
+//function simpleMultiplication(number) {
+// return number%2==0 ? number * 8 : number * 9
+// return n * (n % 2 ? 9 : 8);
+
+// }
+// simpleMultiplication(7)
+
+///******* max ve min string olarak yazdırma
+// function highAndLow(numbers) {
+//   let arr = numbers.split(" ").sort((a, b) => b - a);
+//   // return `${arr.at(0)}  ${arr.at(-1)}`;
+//     return arr.at(0) + " - " + arr.at(-1);
+
+//   let arr = numbers.split(' ');
+//   return `${Math.max(...arr)} ${Math.min(...arr)}`
+
+// }
+// highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4 100");
+
+//function makeUpperCase(str){
+// return  str.toUpperCase()
+//}
+
+//makeUpperCase("hello")
+
+
 //***en büyük ve en küçük sayıyı çıkarıp toplar
 // function sumArray(arr) {
 // let sortedArr = arr.sort((a, b) => a - b);
