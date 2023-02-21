@@ -1,3 +1,50 @@
+//***harf otalaması bulma
+//function getGrade (s1, s2, s3) {
+// let ort=(s1+s2+s3)/3;
+// let harfnot=""
+// if (ort>=90 && ort<=100)
+//           harfnot='A';
+//       else if (ort>=80 && ort<90)
+//           harfnot='B';
+//       else if (ort>=70 && ort<80)
+//           harfnot='C';
+//       else if (ort>=60 && ort<70)
+//           harfnot='D';
+//       else if (ort>=0 && ort<60)
+//           harfnot='E';
+//     return harfnot
+//***harf ortalamassı
+//   function getGrade (s1, s2, s3) {
+//   avg = (s1+s2+s3)/3;
+//   if (avg < 60)  return "F";
+//     else if (avg < 70) return "D";
+//     else if (avg < 80) return "C";
+//     else if (avg < 90) return "B";
+//     else return "A";
+// }
+// getGrade(60,60,60)
+
+////***verilen string degeri number olarak yazdırma
+// function getAge(inputString){
+//   return parseInt(inputString);
+// }
+
+//****arraydeki en küçük iki sayının toplamı
+
+// function sumTwoSmallestNumbers(numbers) {
+//   // return numbers.sort((a, b)=> a - b)[0] + numbers.sort((a, b)=> a - b)[1]
+//    numbers = numbers.sort(function(a, b){return a - b; });
+//   return numbers[0] + numbers[1];
+// }
+// sumTwoSmallestNumbers([5, 8, 12, 19, 22])
+
+//***istediğimiz koşulda bir cümle yazdırma
+// function hoopCount (n) {
+//   return n <10 ? "Keep at it until you get it" : "Great, now move on to tricks";
+
+// }
+// hoopCount(5)
+
 
 //****istediğimize tamamlama fonksiyonu
 // function otherAngle(a, b) {
