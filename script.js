@@ -1,3 +1,40 @@
+// function sumArray(arr) {
+// let sortedArr = arr.sort((a, b) => a - b);
+//   sortedArr.pop();
+//   sortedArr.shift()
+//  return sortedArr.reduce((acc, curr) => acc + curr, 0)
+
+// }
+// sumArray([6, 2, 1, 8, 10] )
+
+//***alarm (çalışıyorsa çal değilse çalma )
+// function setAlarm(employed, vacation){
+// if (!employed) return false
+//   return !vacation
+// }
+// setAlarm(true,  true)
+// setAlarm(false,  true)
+// setAlarm(false,  false)
+// setAlarm(true,  false)
+
+//***harf otalaması bulma
+//function getGrade (s1, s2, s3) {
+// let ort=(s1+s2+s3)/3;
+// let harfnot=""
+// if (ort>=90 && ort<=100)
+//           harfnot='A';
+//       else if (ort>=80 && ort<90)
+//           harfnot='B';
+//       else if (ort>=70 && ort<80)
+//           harfnot='C';
+//       else if (ort>=60 && ort<70)
+//           harfnot='D';
+//       else if (ort>=0 && ort<60)
+//           harfnot='E';
+//     return harfnot
+//}  
+
+
 //***harf otalaması bulma
 //function getGrade (s1, s2, s3) {
 // let ort=(s1+s2+s3)/3;
