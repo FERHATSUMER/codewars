@@ -1,3 +1,43 @@
+//***Thinkful - Logic Drills: Traffic light şu gelirse bu döner.
+// function updateLight(current) {
+// if (current=="green") {
+//     return "yellow";
+//   }
+//   if (current=="red") {
+//     return "green";
+//   }
+//   if (current=="yellow") {
+//     return "red";
+//   }
+//   const updateLight = current => {
+//   return {
+//     red: 'green',
+//     yellow: 'red',
+//     green: 'yellow'
+//   }[current];
+// }
+
+// }
+// updateLight("green")
+
+//** Is it even?
+// function testEven(n) {
+// return n%2===0 ? true : false
+//     }
+// testEven(0.5)
+
+// //**Is the string uppercase
+// function string(str) {
+// return str.split("").includes(
+//   "e","r","t","u","ı","o","p","a",
+//   "s","d","f","g","h","j","j","k",
+//   "l","i","z","x","c","v","b","n","m")
+//   ? false : true
+
+// }
+// string("HELLO WORLD")
+
+
 // function sumArray(arr) {
 // let sortedArr = arr.sort((a, b) => a - b);
 //   sortedArr.pop();
