@@ -1,3 +1,21 @@
+// const values={username: 'isa', password: '1235'}
+//  const list= [
+//     {
+//         username:'isa',
+//         password:'12345',
+//     },
+//     {
+//         "username":'Ferhat',
+//         "password":'123456',
+    
+//     }]
+//   let user=list.find(item => item.username == values.username)
+//  let isTrue=user.password == values.password
+//  console.log(isTrue)
+//  console.log(user)
+
+
+
 //***Thinkful - Logic Drills: Traffic light şu gelirse bu döner.
 // function updateLight(current) {
 // if (current=="green") {
