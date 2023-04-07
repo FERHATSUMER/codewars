@@ -1,3 +1,18 @@
+// String ends with? SON HARFLERİ AYNIYSA TRUE
+// function solution(str, ending){
+//  return str.endsWith(ending)
+// }
+// solution('abcde','cde')
+
+///***Sort Numbers
+// function solution(nums) {
+//   if (!nums) return [];
+//   return nums.sort((a, b) => a - b);
+//    nums ? nums.sort(function(a, b) { return a - b;}) : []
+// }
+
+// solution(null);
+
 // const values={username: 'isa', password: '1235'}
 //  const list= [
 //     {
