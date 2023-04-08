@@ -1,3 +1,23 @@
+//*****Remove String Spaces
+// function noSpace(x){
+// return x.replaceAll(" ","")
+
+// }
+// noSpace('8 j 8   mBliB8g  imjB8B8  jl  B')
+
+////***** Is he gonna survive?
+// function hero(bullets, dragons){
+//  return dragons *2 < bullets || dragons *2 ==bullets
+// }
+// hero (1500, 751)
+
+//*** Grasshopper - Check for factor
+// function checkForFactor (base, factor) {
+// return base % factor ? false:true
+// or ;base % factor === 0;
+// }
+// checkForFactor(2450,5)
+
 // String ends with? SON HARFLERİ AYNIYSA TRUE
 // function solution(str, ending){
 //  return str.endsWith(ending)
