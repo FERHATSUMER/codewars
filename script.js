@@ -1,3 +1,34 @@
+// // Arryın içindeki ssayıları toplama
+// function sum(...arg){
+// let sum=arg.reduce(
+//   (acc, curr) => acc + curr, 0
+// );
+//   return  sum
+// }
+
+// sum (1,2,4,5,6)
+
+// for (let i = 1; i < 10; i++) {
+//     if (i === 5) {
+//         break;
+//     }
+//  console.log(i)
+// }
+
+
+//*****Grasshopper - Personalized Message
+// function greet (name, owner) {
+//  return name == owner ? 'Hello boss' :'Hello guest'
+// }
+// greet('ferhat','daniel')
+
+//**** Remove exclamation marks
+// function removeExclamationMarks(s) {
+//   return s.replaceAll("!","")
+// }
+// removeExclamationMarks('hello world !')
+
+
 //*****Remove String Spaces
 // function noSpace(x){
 // return x.replaceAll(" ","")
