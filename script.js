@@ -1,3 +1,26 @@
+// function maps(x){
+//  return x.map(n=>n*2)
+// }
+// maps([1, 2, 3])
+
+
+
+// const values={username: 'isa', password: '1235'}
+//  const list= [
+//     {
+//         username:'isa',
+//         password:'12345',
+//     },
+//     {
+//         "username":'Ferhat',
+//         "password":'123456',
+    
+//     }]
+//   let user=list.find(item => item.username == values.username)
+//  let isTrue=user.password == values.password
+//  console.log(isTrue)
+//  console.log(user)
+
 // // Arryın içindeki ssayıları toplama
 // function sum(...arg){
 // let sum=arg.reduce(
