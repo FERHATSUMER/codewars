@@ -1,3 +1,29 @@
+
+// function removeChar(str){
+//  return str.slice(1,-1)
+
+// };
+// removeChar("eloquent")
+
+// function areYouPlayingBanjo(name) {
+//   let first=name.toLowerCase()
+//   return first.slice(0,1).includes("r", )
+//     ? `${name} plays banjo`
+//     : `${name} does not play banjo`;
+//   return name + (name[0].toLowerCase() == 'r' ? ' plays' : ' does not play') + " banjo";
+
+// }
+// areYouPlayingBanjo("rolf");
+
+// function sumStr(a,b) {
+//   let total=(+a)+(+b)
+//    return total.toString()
+//     // return String(Number(a)+Number(b));
+
+//   }
+
+// sumStr("34", "5")
+
 // function maps(x){
 //  return x.map(n=>n*2)
 // }
