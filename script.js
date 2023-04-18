@@ -1,3 +1,7 @@
+// function lovefunc(flower1, flower2){
+//   return (flower1 + flower2) % 2 !==0 
+// }
+// lovefunc(1,4)
 
 // function removeChar(str){
 //  return str.slice(1,-1)
