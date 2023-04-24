@@ -1,3 +1,12 @@
+// function sumMix(x){
+// return x.map(x=>+x).reduce(
+//  (acc, curr) => acc + curr, 0
+// )
+//   x.map(a => +a).reduce((a, b) => a + b);
+// }
+// sumMix([9, 3, '7', '3'])
+
+
 // function lovefunc(flower1, flower2){
 //   return (flower1 + flower2) % 2 !==0 
 // }
