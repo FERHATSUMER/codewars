@@ -1,3 +1,16 @@
+// ****Convert a string to an array
+// function stringToArray(string){
+// return string.split(" ")
+
+// }
+// stringToArray("I love arrays they are my favorite")
+
+//****Convert boolean values to strings 'Yes' or 'No
+// function boolToWord( bool ){
+//   return bool ? 'Yes':'No';
+// }
+// boolToWord( true )
+
 // function sumMix(x){
 // return x.map(x=>+x).reduce(
 //  (acc, curr) => acc + curr, 0
