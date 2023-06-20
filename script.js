@@ -1,15 +1,3 @@
-// ****Convert a string to an array
-// function stringToArray(string){
-// return string.split(" ")
-
-// }
-// stringToArray("I love arrays they are my favorite")
-
-//****Convert boolean values to strings 'Yes' or 'No
-// function boolToWord( bool ){
-//   return bool ? 'Yes':'No';
-// }
-// boolToWord( true )
 
 // function sumMix(x){
 // return x.map(x=>+x).reduce(
@@ -49,6 +37,19 @@
 //   }
 
 // sumStr("34", "5")
+
+// ****Convert a string to an array
+// function stringToArray(string){
+// return string.split(" ")
+
+// }
+// stringToArray("I love arrays they are my favorite")
+
+//****Convert boolean values to strings 'Yes' or 'No
+// function boolToWord( bool ){
+//   return bool ? 'Yes':'No';
+// }
+// boolToWord( true )
 
 // function maps(x){
 //  return x.map(n=>n*2)
@@ -484,4 +485,6 @@
 //   // return noneZero.concat(zero)
 //   return [...noneZero, ...zero]
 // }
+
+
 //   zeroToend([false,1,0,1,2,0,1,3,"a"])
