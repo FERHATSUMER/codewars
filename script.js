@@ -1,3 +1,21 @@
+// Find the stray number ->arraydeki farklı sayıyı dönürür
+// function stray(numbers) {
+// return numbers.reduce((acc, number) => acc ^ number);
+// }
+// stray([1,1,1,1,12])
+
+// Sum without highest and lowest number
+// function sumArray(a) {
+// return a ? a.sort((x, y) => x - y).slice(1, -1).reduce((s, e) => s + e, 0) : 0
+
+// }
+// sumArray([])
+
+// ****You Can't Code Under Pressure #1
+// function doubleInteger(i) {
+   // i will be an integer. Double it and return it.
+//   return i * 2;
+// }
 
 // function sumMix(x){
 // return x.map(x=>+x).reduce(
