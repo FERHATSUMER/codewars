@@ -1,3 +1,8 @@
+//**Beginner Series #1 School Paperwork  */
+// function paperwork(n, m) {
+//   return n > 0 && m > 0 ? n * m : 0
+// }
+
 //**Rock Paper Scissors! */
 // const rps = (p1, p2) => {
 //    if (p1 == 'scissors' && p2 == 'paper') {
