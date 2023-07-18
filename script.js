@@ -1,3 +1,10 @@
+//***  Find Multiples of a Number
+// function findMultiples(integer, limit) {
+//    let arr = [];
+//    for (let i=integer; i <=limit; i+=integer) arr.push(i)
+//    return arr
+//  }
+
 //**Beginner Series #1 School Paperwork  */
 // function paperwork(n, m) {
 //   return n > 0 && m > 0 ? n * m : 0
