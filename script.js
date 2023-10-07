@@ -1,3 +1,9 @@
+//** Reverse List Order */
+// function reverseList(list) {
+//    return list.reverse()
+//    }
+//list[1,2,3,4]
+
 //***  Find Multiples of a Number
 // function findMultiples(integer, limit) {
 //    let arr = [];
