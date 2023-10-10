@@ -1,3 +1,11 @@
+
+//***Area or Perimeter */
+// const areaOrPerimeter = function(l , w) {
+//    return l == w ? l*w : (l + w ) *2
+//    };
+
+//    areaOrPerimeter(5, 5)
+
 //** Reverse List Order */
 // function reverseList(list) {
 //    return list.reverse()
