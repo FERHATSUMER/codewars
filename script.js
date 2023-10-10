@@ -1,4 +1,16 @@
 
+///***Return Negative
+// function makeNegative(num) {
+//    if (num === 0) {
+//      return 0;
+//    } else if (num < 0) {
+//      return num;
+//    } else {
+//      return -num;
+//    }
+//  }
+// makeNegative(-5) 
+
 //***Area or Perimeter */
 // const areaOrPerimeter = function(l , w) {
 //    return l == w ? l*w : (l + w ) *2
