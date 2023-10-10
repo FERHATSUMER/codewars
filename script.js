@@ -1,4 +1,11 @@
 
+
+//***Returning Strings
+// function greet(name){
+//    return `Hello, ${name} how are you doing today?`
+//    }
+// greet{Ferhat}
+
 ///***Return Negative
 // function makeNegative(num) {
 //    if (num === 0) {
