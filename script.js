@@ -1,5 +1,15 @@
 
 
+//***What is between?
+// function between(a, b) {  
+//   const betweenArray = []
+//   while (a <= b) {
+//     betweenArray.push(a);
+//     a++;
+//   }
+//   return betweenArray;
+// }
+
 //***Returning Strings
 // function greet(name){
 //    return `Hello, ${name} how are you doing today?`
