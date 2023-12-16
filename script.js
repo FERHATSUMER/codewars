@@ -1,4 +1,31 @@
+// ***Sum of a sequence
+// function sequenceSum(begin, end, step) {
+//   if (begin > end) {
+//     return 0;
+//   }
 
+//   let sum = 0;
+//   for (let i = begin; i <= end; i += step) {
+//     sum += i;
+//   }
+
+//   return sum;
+// }
+
+// sequenceSum(2,2,2)
+
+// function pipeFix(numbers) {
+//   const result = [];
+
+//   for (let i = Math.min(...numbers); i <= Math.max(...numbers); i++) {
+//     result.push(i);
+//   }
+
+//   return result;
+// }
+
+
+// pipeFix([1,2,7,9])
 
 //***What is between?
 // function between(a, b) {  
